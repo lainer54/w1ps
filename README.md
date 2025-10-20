@@ -1,4 +1,4 @@
-Hi, I'm a W1PS programmer using Java.
+Hi, I'm a W1PS programmer using Java and android.
 
 
 # 💻 Tech Stack:
@@ -12,3 +12,4 @@ Hi, I'm a W1PS programmer using Java.
 [![](https://visitcount.itsvg.in/api?id=w1ps&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
